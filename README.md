@@ -1,6 +1,8 @@
 # Screenshots
 
-https://github.com/Khervyngupta/Weather-Application/blob/master/Screenshots/WeatherSS.png
+![App Screenshot](https://github.com/Khervyngupta/Weather-Application/blob/master/Screenshots/WeatherSS.png)
+
+![App Screenshot](https://github.com/Khervyngupta/Weather-Application/blob/master/Screenshots/WeatherSS1.png)
 
 
 # Getting Started with Create React App
