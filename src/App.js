@@ -21,7 +21,7 @@ const WeatherForecast = () => {
     try {
       setLoading(true);
       setError('');
-      const response = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=ec8064f83b05aae2862966c39f6e7b0d`);
+      const response = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=API-KEY`);
       if (!response.ok) {
         throw new Error('Failed to fetch weather data');
       }
