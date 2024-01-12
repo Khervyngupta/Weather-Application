@@ -1,3 +1,7 @@
+# Deployed Website Link
+
+https://weather-app-khervyn.netlify.app/
+
 # Screenshots
 
 ![App Screenshot](https://github.com/Khervyngupta/Weather-Application/blob/master/Screenshots/WeatherSS.png)
